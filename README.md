@@ -1,6 +1,13 @@
 ### L'historien et les mémoires de la secondes Guerre mondiale en france
 
+> __Mémoire:__ `Ensemble de souvenirs qui résultent des événements vécus par des individus, des groupes ou des institutions. Mémoire est donc plurielle et partielle car subjective.`
+
+> __Témoin:__ `acteur de l'histoire porteur d'une part du passé et qui veut en rendre compte. Source pour appréhender le passer.`
+
+> __Historien:__ `Préoccupé par une approche globale et objective, se doit de confronter les témoignages entre eux et à d'autres sources.`
+
 ##### L'historien et les mémoires immédiates d'après guerre
+------
 * __Guerre `->` mémoires plurielles__
      * Diff points de vue (communistes/résistants/collabo etc..)
 
@@ -22,6 +29,7 @@
 > __Résitantialisme__: `Notion élaborée par Henry Rousso pour qualifier l'idée Gauliste selon laquelle tous les Français étaient résitants.`
 
 ##### Jusqu'aux années 70 le résistancialisme s'impose
+------
 * Gaulisme
     * De Gaulle au pouvoir de 44 à 46 puis de 58 à 69
     * Mémoire `Gaulienne` = __Mémoire d'état officielle__
@@ -52,5 +60,25 @@
 
 > __Shoah:__ `Mot hébreux signifiant "Catastrophe" qui désigne l'extermination de 6 millions de juifs par les Nazis`
 
+##### Tournant dans les années 70
+----
 
+* Contexte propice à la relecture du passé
+   * Tournant dans l'historiographie car __mort DG en 1970__ + __Déclin du PCF__ et arrivée à l'âge adulte de la génération d'après guerre
+   * Permet __exament critique__ des _Français et de l'état_ pendant l'occupation
+   * Apparition du négationnisme = mobilisation assoc juive (voir __époux Klarsfeld__)
+   * Bilan du génocide + retrouver nazi --> justice
+
+> __Négationnisme:__ `position qui remet en cause l'existence du génocide des juifs pendant la seconde guerre mondiale.` 
+
+> __Historiographie:__ `Etude de la manière dont les historiens fabriquent l'histoire, dans quel but, contexte et outils.`
+
+> __Biographie des Klarsfeld (Serge):__ `Avocat et historien Français. Fils de déporté. Il fonde "Fils et Fille de déportés juifs de France". Il consacre sa vie à la traque des responsables de la déportation et de l'écriture de l'histoire du génocide.`
+
+* Ere du témoin
+   * __Procès Eichmann en 1961__ libère la parole des victimes
+   * __Mémoire juive__ s'impose dans le débat public
+   * Historiens parlent de  __L'ère du témoin__
+   * Guerres au Moyen-Orient favorise le sentiment d'appartenance des juifs à une communauté mencacée (Guerre des  Six en 1967 jours + Guerre Kippour en 1973)
+   
 
