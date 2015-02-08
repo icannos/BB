@@ -30,7 +30,7 @@
 
 ##### Jusqu'aux années 70 le résistancialisme s'impose
 ------
-* Gaulisme
+* __Gaulisme__
     * De Gaulle au pouvoir de 44 à 46 puis de 58 à 69
     * Mémoire `Gaulienne` = __Mémoire d'état officielle__
     *  _Grandeur du pays, honneur, unité nationale_ (tous beaux, tous grands, tous forts)
@@ -42,7 +42,7 @@
 
 > __Biographie C.De Gaule:__ `Militaire, secrétaire d'état en 40, s'impose comme chef de la résistance, démissionne en 1946 car il est contre la constitution de la IV république. Revient sur la scène politique en 1958 (algérie).` _Livre p.442_
 
-* Communisme
+* __Communisme__
    * PCC = prestige URSS face au Nazisme
    * 'Parti des __75 000 fusillés__ (Propagandes, plutôt 5 000 au max)
    * Combat du peuple opprimé
@@ -50,7 +50,7 @@
    * Guerre froide = ne pas laisser le monopole de la résistance au Gaullistes
    * Mémoires dans des figures _héroïques_ (Voir Guy Môquet symbole)
  
-* D'autres mémoires passées sous silence
+* __D'autres mémoires passées sous silence__
    * Pas de places pour mémoires =\= résistancialisme
    * __Evelyne Marsura__, Historienne parle de __Mémoires repliées__ dans le cas des prisonniers de guerre dont la mémoire symbolisait la défaire de 1940.
    * Après la guerre conservation de traces du _génocide juif_, 1956 --> __Mémorial du martyr juif inconnu.__
@@ -63,7 +63,7 @@
 ##### Tournant dans les années 70
 ----
 
-* Contexte propice à la relecture du passé
+* __Contexte propice à la relecture du passé__
    * Tournant dans l'historiographie car __mort DG en 1970__ + __Déclin du PCF__ et arrivée à l'âge adulte de la génération d'après guerre
    * Permet __exament critique__ des _Français et de l'état_ pendant l'occupation
    * Apparition du négationnisme = mobilisation assoc juive (voir __époux Klarsfeld__)
@@ -75,7 +75,7 @@
 
 > __Biographie des Klarsfeld (Serge):__ `Avocat et historien Français. Fils de déporté. Il fonde "Fils et Fille de déportés juifs de France". Il consacre sa vie à la traque des responsables de la déportation et de l'écriture de l'histoire du génocide.`
 
-* Ere du témoin
+* __Ere du témoin__
    * __Procès Eichmann en 1961__ libère la parole des victimes
    * __Mémoire juive__ s'impose dans le débat public
    * Historiens parlent de  __L'ère du témoin__
