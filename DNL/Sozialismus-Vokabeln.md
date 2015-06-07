@@ -36,5 +36,7 @@
 
 **Allgemeines walhrecht**: sufrage universel
 
+**Zahlreich**: nombreux
+
 
 
