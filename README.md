@@ -1,84 +1,84 @@
-### L'historien et les mémoires de la secondes Guerre mondiale en france
+### L'historien et les mÃ©moires de la seconde Guerre mondiale en france
 
-> __Mémoire:__ `Ensemble de souvenirs qui résultent des événements vécus par des individus, des groupes ou des institutions. Mémoire est donc plurielle et partielle car subjective.`
+> __MÃ©moire:__ `Ensemble de souvenirs qui rÃ©sultent des Ã©vÃ©nements vÃ©cus par des individus, des groupes ou des institutions. MÃ©moire est donc plurielle et partielle car subjective.`
 
-> __Témoin:__ `acteur de l'histoire porteur d'une part du passé et qui veut en rendre compte. Source pour appréhender le passer.`
+> __TÃ©moin:__ `acteur de l'histoire porteur d'une part du passÃ© et qui veut en rendre compte. Source pour apprÃ©hender le passer.`
 
-> __Historien:__ `Préoccupé par une approche globale et objective, se doit de confronter les témoignages entre eux et à d'autres sources.`
+> __Historien:__ `PrÃ©occupÃ© par une approche globale et objective, se doit de confronter les tÃ©moignages entre eux et Ã  d'autres sources.`
 
-##### L'historien et les mémoires immédiates d'après guerre
+##### L'historien et les mÃ©moires immÃ©diates d'aprÃ¨s guerre
 ------
-* __Guerre `->` mémoires plurielles__
-     * Diff points de vue (communistes/résistants/collabo etc..)
+* __Guerre `->` mÃ©moires plurielles__
+     * Diff points de vue (communistes/rÃ©sistants/collabo etc..)
 
-> __Groupe porteur de mémoire:__ `ensemble d'individus partageant une même mémoire collective.`
+> __Groupe porteur de mÃ©moire:__ `ensemble d'individus partageant une mÃªme mÃ©moire collective.`
 
-* __Contexte d'après guerre__
-    * Unité nationale
+* __Contexte d'aprÃ¨s guerre__
+    * UnitÃ© nationale
     * lois d'amnistie
-    * Refermer période de vichy (Non proclamation de la république par DG car elle n'a pas cessé d'être: Vichy _"nul et non avenu"_
-    * Placement sur l'échiquier mondial `=>` objectif faire oublier collabo.
+    * Refermer pÃ©riode de vichy (Non proclamation de la rÃ©publique par DG car elle n'a pas cessÃ© d'Ãªtre: Vichy _"nul et non avenu"_
+    * Placement sur l'Ã©chiquier mondial `=>` objectif faire oublier collabo.
 
-> __Lois d'amnistie:__ `Lois votées en 1946, 1947, 1951 et 1953, qui annulent les inculpations pour certaines catégories de  crimes. Elles témoignent de la volonté d'oubli d'après-guerre. `
+> __Lois d'amnistie:__ `Lois votÃ©es en 1946, 1947, 1951 et 1953, qui annulent les inculpations pour certaines catÃ©gories de  crimes. Elles tÃ©moignent de la volontÃ© d'oubli d'aprÃ¨s-guerre. `
 
 * __Difficile travail d'historien__
-    * Doxa / Pensée dominante alors `résistencialisme`
-    * __Rober Aron__ _L'histoire de Vichy_ `->` Mythe bouclier / épée = _Vichy / DG_
-    * _communisme et gaulisme_ dominent et imposent la mise en avant de la résistance
+    * Doxa / PensÃ©e dominante alors `rÃ©sistencialisme`
+    * __Rober Aron__ _L'histoire de Vichy_ `->` Mythe bouclier / Ã©pÃ©e = _Vichy / DG_
+    * _communisme et gaulisme_ dominent et imposent la mise en avant de la rÃ©sistance
 
-> __Résitantialisme__: `Notion élaborée par Henry Rousso pour qualifier l'idée Gauliste selon laquelle tous les Français étaient résitants.`
+> __RÃ©sitantialisme__: `Notion Ã©laborÃ©e par Henry Rousso pour qualifier l'idÃ©e Gauliste selon laquelle tous les FranÃ§ais Ã©taient rÃ©sitants.`
 
-##### Jusqu'aux années 70 le résistancialisme s'impose
+##### Jusqu'aux annÃ©es 70 le rÃ©sistancialisme s'impose
 ------
 * __Gaulisme__
-    * De Gaulle au pouvoir de 44 à 46 puis de 58 à 69
-    * Mémoire `Gaulienne` = __Mémoire d'état officielle__
-    *  _Grandeur du pays, honneur, unité nationale_ (tous beaux, tous grands, tous forts)
-    *  __France unaniment résitante__ + résistance héroique et efficace (au détriment des alliés)
+    * De Gaulle au pouvoir de 44 Ã  46 puis de 58 Ã  69
+    * MÃ©moire `Gaulienne` = __MÃ©moire d'Ã©tat officielle__
+    *  _Grandeur du pays, honneur, unitÃ© nationale_ (tous beaux, tous grands, tous forts)
+    *  __France unaniment rÃ©sitante__ + rÃ©sistance hÃ©roique et efficace (au dÃ©triment des alliÃ©s)
     *  _Occultation de vichy_
-    *  Apparition de _lieux de mémoire_, (__Mémorial de la France combatante__ inauguré en _1960_)
-    *  __Commémorations__ et actions pédagogiques pour la jeunesse (= __Concours national de la résistance et de la déportation__ créé en _1961_)
-    *  __Apogée du résistancialisme__ les cendres de _Jean Moulin_ transférées au __panthéon__
+    *  Apparition de _lieux de mÃ©moire_, (__MÃ©morial de la France combatante__ inaugurÃ© en _1960_)
+    *  __CommÃ©morations__ et actions pÃ©dagogiques pour la jeunesse (= __Concours national de la rÃ©sistance et de la dÃ©portation__ crÃ©Ã© en _1961_)
+    *  __ApogÃ©e du rÃ©sistancialisme__ les cendres de _Jean Moulin_ transfÃ©rÃ©es au __panthÃ©on__
 
-> __Biographie C.De Gaule:__ `Militaire, secrétaire d'état en 40, s'impose comme chef de la résistance, démissionne en 1946 car il est contre la constitution de la IV république. Revient sur la scène politique en 1958 (algérie).` _Livre p.442_
+> __Biographie C.De Gaule:__ `Militaire, secrÃ©taire d'Ã©tat en 40, s'impose comme chef de la rÃ©sistance, dÃ©missionne en 1946 car il est contre la constitution de la IV rÃ©publique. Revient sur la scÃ¨ne politique en 1958 (algÃ©rie).` _Livre p.442_
 
 * __Communisme__
    * PCC = prestige URSS face au Nazisme
-   * 'Parti des __75 000 fusillés__ (Propagandes, plutôt 5 000 au max)
-   * Combat du peuple opprimé
-   * __28.3 % des voix en 1946__ = 1er partis de France (législtaives)
-   * Guerre froide = ne pas laisser le monopole de la résistance au Gaullistes
-   * Mémoires dans des figures _héroïques_ (Voir Guy Môquet symbole)
+   * 'Parti des __75 000 fusillÃ©s__ (Propagandes, plutÃ´t 5 000 au max)
+   * Combat du peuple opprimÃ©
+   * __28.3 % des voix en 1946__ = 1er partis de France (lÃ©gisltaives)
+   * Guerre froide = ne pas laisser le monopole de la rÃ©sistance au Gaullistes
+   * MÃ©moires dans des figures _hÃ©roÃ¯ques_ (Voir Guy MÃ´quet symbole)
  
-* __D'autres mémoires passées sous silence__
-   * Pas de places pour mémoires =\= résistancialisme
-   * __Evelyne Marsura__, Historienne parle de __Mémoires repliées__ dans le cas des prisonniers de guerre dont la mémoire symbolisait la défaire de 1940.
-   * Après la guerre conservation de traces du _génocide juif_, 1956 --> __Mémorial du martyr juif inconnu.__
-   * Mais cette mémoire est occultée, __Annette Wieviorka__ évoque un __grand silence__ autours des survivants.
+* __D'autres mÃ©moires passÃ©es sous silence__
+   * Pas de places pour mÃ©moires =\= rÃ©sistancialisme
+   * __Evelyne Marsura__, Historienne parle de __MÃ©moires repliÃ©es__ dans le cas des prisonniers de guerre dont la mÃ©moire symbolisait la dÃ©faire de 1940.
+   * AprÃ¨s la guerre conservation de traces du _gÃ©nocide juif_, 1956 --> __MÃ©morial du martyr juif inconnu.__
+   * Mais cette mÃ©moire est occultÃ©e, __Annette Wieviorka__ Ã©voque un __grand silence__ autours des survivants.
 
-> __Mémoire collective:__ `mémoire partagée, transmise et construite par la société, dominante dans l'espace publique.`
+> __MÃ©moire collective:__ `mÃ©moire partagÃ©e, transmise et construite par la sociÃ©tÃ©, dominante dans l'espace publique.`
 
-> __Shoah:__ `Mot hébreux signifiant "Catastrophe" qui désigne l'extermination de 6 millions de juifs par les Nazis`
+> __Shoah:__ `Mot hÃ©breux signifiant "Catastrophe" qui dÃ©signe l'extermination de 6 millions de juifs par les Nazis`
 
-##### Tournant dans les années 70
+##### Tournant dans les annÃ©es 70
 ----
 
-* __Contexte propice à la relecture du passé__
-   * Tournant dans l'historiographie car __mort DG en 1970__ + __Déclin du PCF__ et arrivée à l'âge adulte de la génération d'après guerre
-   * Permet __exament critique__ des _Français et de l'état_ pendant l'occupation
-   * Apparition du négationnisme = mobilisation assoc juive (voir __époux Klarsfeld__)
-   * Bilan du génocide + retrouver nazi --> justice
+* __Contexte propice Ã  la relecture du passÃ©__
+   * Tournant dans l'historiographie car __mort DG en 1970__ + __DÃ©clin du PCF__ et arrivÃ©e Ã  l'Ã¢ge adulte de la gÃ©nÃ©ration d'aprÃ¨s guerre
+   * Permet __exament critique__ des _FranÃ§ais et de l'Ã©tat_ pendant l'occupation
+   * Apparition du nÃ©gationnisme = mobilisation assoc juive (voir __Ã©poux Klarsfeld__)
+   * Bilan du gÃ©nocide + retrouver nazi --> justice
 
-> __Négationnisme:__ `position qui remet en cause l'existence du génocide des juifs pendant la seconde guerre mondiale.` 
+> __NÃ©gationnisme:__ `position qui remet en cause l'existence du gÃ©nocide des juifs pendant la seconde guerre mondiale.` 
 
-> __Historiographie:__ `Etude de la manière dont les historiens fabriquent l'histoire, dans quel but, contexte et outils.`
+> __Historiographie:__ `Etude de la maniÃ¨re dont les historiens fabriquent l'histoire, dans quel but, contexte et outils.`
 
-> __Biographie des Klarsfeld (Serge):__ `Avocat et historien Français. Fils de déporté. Il fonde "Fils et Fille de déportés juifs de France". Il consacre sa vie à la traque des responsables de la déportation et de l'écriture de l'histoire du génocide.`
+> __Biographie des Klarsfeld (Serge):__ `Avocat et historien FranÃ§ais. Fils de dÃ©portÃ©. Il fonde "Fils et Fille de dÃ©portÃ©s juifs de France". Il consacre sa vie Ã  la traque des responsables de la dÃ©portation et de l'Ã©criture de l'histoire du gÃ©nocide.`
 
-* __Ere du témoin__
-   * __Procès Eichmann en 1961__ libère la parole des victimes
-   * __Mémoire juive__ s'impose dans le débat public
-   * Historiens parlent de  __L'ère du témoin__
-   * Guerres au Moyen-Orient favorise le sentiment d'appartenance des juifs à une communauté mencacée (Guerre des  Six en 1967 jours + Guerre Kippour en 1973)
+* __Ere du tÃ©moin__
+   * __ProcÃ¨s Eichmann en 1961__ libÃ¨re la parole des victimes
+   * __MÃ©moire juive__ s'impose dans le dÃ©bat public
+   * Historiens parlent de  __L'Ã¨re du tÃ©moin__
+   * Guerres au Moyen-Orient favorise le sentiment d'appartenance des juifs Ã  une communautÃ© mencacÃ©e (Guerre des  Six en 1967 jours + Guerre Kippour en 1973)
    
 
