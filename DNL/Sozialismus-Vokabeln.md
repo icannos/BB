@@ -24,3 +24,17 @@
 
 **Werk**: usine
 
+**Die Obrigkeit**: Les autorités
+
+**Der Obrigeitsstaat**:Etat autoritaire
+
+**Die Verwaltung**: l'administration
+
+**der Bürger**: le citoyen
+
+**Bundesstaat**: Etat fédéral
+
+**Allgemeines walhrecht**: sufrage universel
+
+
+
